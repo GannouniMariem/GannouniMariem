@@ -4,8 +4,8 @@ Hi everyone! I'm Mariem from Tunisia, Web Developer specializing in front-end. I
 
 ## My Skills :
 
- ✅  Programming languages: Javascript, PHP,JAVA,C
- ✅  JS Frontend Frameworks: React
+ . ✅  Programming languages: Javascript, PHP,JAVA,C
+ . ✅  JS Frontend Frameworks: React
  ✅  PHP Backend Frameworks: Laravel
  ✅  Database: MySQL
  ✅  Markup language and styling : HTML / CSS
@@ -19,11 +19,6 @@ Hi everyone! I'm Mariem from Tunisia, Web Developer specializing in front-end. I
 ⭐️ Social Media Signup/Login
 ⭐️ Google API
 ⭐️ Rest API's
-
-- 🔭 I’m currently working on my portfolio 
-- 🌱 I’m currently learning Reactjs 
-- 😄 Pronouns: she/her 
-- ⚡ Fun fact: I can handle more than 4 cups of coffee  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/GannouniMariem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='30'>](https://dev.to/gmariem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mariem-gannouni/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/G-Mariem)  
