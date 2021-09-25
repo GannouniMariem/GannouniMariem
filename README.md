@@ -1,8 +1,21 @@
-### Hi there 👋, my name is Maryem
-#### Front Developer
+# Mariem Gannouni
 Hi everyone! I'm Mariem from Tunisia, Web Developer specializing in front-end. I really enjoy learning languages and frameworks like React and laravel, Also I have a passion for Design Systems and Serverless Technologies such as Google Cloud.
 
-Skills: REACT / JS / HTML / CSS / LARAVEL
+
+## My Skill :
+
+✅ Programming languages: Javascript, PHP,JAVA,C
+✅  JS Frontend Frameworks: React
+✅  PHP Backend Frameworks: Laravel
+✅  Database: MySQL
+
+## I worked with this following services:
+
+⭐️ PSD to HTML
+⭐️ Web design ( Framework like Bootstrap)
+⭐️ Social Media Signup/Login
+⭐️ Google API
+⭐️ Rest API's
 
 - 🔭 I’m currently working on my portfolio 
 - 🌱 I’m currently learning Reactjs 
