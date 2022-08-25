@@ -1,18 +1,16 @@
 # Mariem Gannouni  🚀 
 Hi everyone! I'm Mariem from Tunisia, Web Developer specializing in front-end. I really enjoy learning languages and frameworks like React and laravel, Also I have a passion for Design Systems and Serverless Technologies such as Google Cloud.
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Css SVG animation with Gsap
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can handle more than 4 cups of coffee
 
 ## My Skills :
 
- - ✅  Programming languages: Javascript, PHP,JAVA,C
  - ✅  JS Frontend Frameworks: React
  - ✅  PHP Backend Frameworks: Laravel
  - ✅  Database: MySQL
- - ✅  Markup language and styling : HTML / CSS
+ - ✅  Markup language and styling : HTML / CSS / SASS
  - ✅ responisve design : bootstrap
  
 
